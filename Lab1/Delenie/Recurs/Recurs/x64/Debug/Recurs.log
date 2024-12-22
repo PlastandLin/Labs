@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Андрей\Desktop\Labs\Lab1\Delenie\Recurs\FileName.cpp(43,13): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Recurs.vcxproj -> C:\Users\Андрей\Desktop\Labs\Lab1\Delenie\Recurs\x64\Debug\Recurs.exe

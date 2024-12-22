@@ -1,0 +1,93 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Страница — 1" id="jCmSklPNzQxJVxEVMiIR">
+    <mxGraphModel dx="1219" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jmGItIukLTracGFibQeB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-1" target="jmGItIukLTracGFibQeB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-2" target="jmGItIukLTracGFibQeB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-2" value="double F(double x)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-4" value="#include &amp;lt;iostream&amp;gt;&lt;div&gt;#include &amp;lt;clocale&amp;gt;&lt;/div&gt;&lt;div&gt;#include &amp;lt;cmath&amp;gt;&lt;/div&gt;&lt;div&gt;#include &amp;lt;ctime&amp;gt;&lt;/div&gt;&lt;div&gt;using namespace std;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;double e;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="60" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-6" target="jmGItIukLTracGFibQeB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-6" value="return x - 2 + sin(1 / x);" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="230" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-8" target="jmGItIukLTracGFibQeB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-8" value="double F1(double x)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-10" target="jmGItIukLTracGFibQeB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-10" value="return 1 + cos(1 / x) * ((-1) / pow(x, 2));" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-12" target="jmGItIukLTracGFibQeB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-12" value="double F2(double x)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-14" target="jmGItIukLTracGFibQeB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-14" value="return (2 * cos(1 / x) * x - sin(1 / x)) / pow(x, 4);" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="640" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-16" target="jmGItIukLTracGFibQeB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-16" value="&lt;div&gt;void n(double a, double b)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-18" target="jmGItIukLTracGFibQeB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-18" value="cout &amp;lt;&amp;lt; &quot;Введите точность: &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="840" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-20" target="jmGItIukLTracGFibQeB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-20" value="cin &amp;gt;&amp;gt; e;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="930" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-22" target="jmGItIukLTracGFibQeB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-22" value="clock_t start = clock();" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1010" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmGItIukLTracGFibQeB-24" target="jmGItIukLTracGFibQeB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-24" value="double x0, x;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1090" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmGItIukLTracGFibQeB-26" value="if (F(a) * F2(a) == 0)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1180" width="150" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
