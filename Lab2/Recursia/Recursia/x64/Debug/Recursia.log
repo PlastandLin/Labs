@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Андрей\Desktop\Labs\Lab2\Recursia\FileName.cpp(44,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Recursia.vcxproj -> C:\Users\Андрей\Desktop\Labs\Lab2\Recursia\x64\Debug\Recursia.exe
